@@ -1,26 +1,4 @@
-## Welcome to GitHub Pages
+## Assalamu'alaikum, selamat datang ke GitHub Pages Gw.
 
-This my first GitHub Pages, just tried it and see how it work. If possible it will be my personal website in future.
-
-### Markdown
-
-This page written with Markdown, What is that? Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Halaman ini merupakan halaman situs gw yang gw host di Github. Rencananya gw akan nulis tentang aplikasi-aplikasi hasil karya gw yang gw taro di Github. Aplikasi-aplikasi tersebut kalo lo suka lo dapat clone aja langsung, dan lo lakukan utak atik source code nya, tapi jangan lupa kalo aplikasi yang lo clone lo pake untuk cari duit, maka gw harus dapat persenan. Kalo lo cari duit dengan menggunakan hasil karya gw ini diam-diam, gw kagak rela, dan akan gw tuntut di akhirat nanti :)
 
